@@ -2,6 +2,7 @@
 
 Meu diferencial está na capacidade de integrar dados de pessoas a contextos estratégicos de negócio, promovendo uma gestão orientada a evidências para potencializar a performance, engajamento e desenvolvimento dos colaboradores.
 &nbsp;
+&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
