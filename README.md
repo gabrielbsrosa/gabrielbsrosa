@@ -1,6 +1,8 @@
 # Hola! Meu nome é Gabriel Barbosa 🧑‍💻
 
-Meu diferencial está na capacidade de integrar dados de pessoas a contextos estratégicos de negócio, promovendo uma gestão orientada a evidências para potencializar a performance, engajamento e desenvolvimento dos colaboradores.
+Sou profissional Especialista de dados e analytics, com ampla experiência em visualização e preparação de Dados, definição técnica e entrega de soluções ponta a ponta. Atuo como apoio entre engenharia, ciência de dados e visualização, conectando tecnologia e negócio para transformar necessidades estratégicas em soluções de dados completas.
+
+Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, QuickSight e Looker studio) que tornam informações complexas em decisões acionáveis, construir pipelines de dados, Data Warehouses e integrações complexas (SQL, ETL, Snowflake), e definir arquiteturas em cloud computing (AWS) otimizando governança e performance. Também atuo na preparação e análise de dados para ciência de dados e inteligência artificial, transformando dados em insights por meio de storytelling e análise estratégica.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
