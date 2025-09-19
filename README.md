@@ -19,12 +19,16 @@ Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, Q
 
 🐍Python, DAX, SQL
 
+
 #Certificados#
 
-📚 Tableau - Business Intelligence Analyst.&nbsp;
+📚 Tableau - Business Intelligence Analyst.
+
 
 
 #Formação Acadêmica#
 
-🚀Mackenzie - Bacharelado em Sistemas de Informação&nbsp;
-🚀Pós-graduação em Data Science&nbsp;
+🚀Mackenzie - Bacharelado em Sistemas de Informação
+
+🚀Pós-graduação em Data Science
+
