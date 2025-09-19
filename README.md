@@ -14,7 +14,9 @@ Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, Q
 #Habilidades#
 
 🎲Banco de dados (PostgreSQL, MySQL, SQLServer, Oracle)
+
 🔍Coleta e processamento de dados
+
 🐍Python, DAX, SQL
 
 #Certificados#
