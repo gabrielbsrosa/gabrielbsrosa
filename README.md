@@ -30,5 +30,5 @@ Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, Q
 
 🚀Mackenzie - Bacharelado em Sistemas de Informação
 
-🚀Pós-graduação em Data Science
+🧠Pós-graduação em Data Science
 
