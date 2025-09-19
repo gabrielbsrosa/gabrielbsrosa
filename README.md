@@ -15,13 +15,10 @@ Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, Q
 
 📚 Tableau - Business Intelligence Analyst.
 
-🔧 Previous experience with PHP and WordPress website development.
 
-📚 Technical course integrated with high school in Computer Science for the Internet.
 
-🌍 Advanced English.
 
-Line
-#🚀 Formação Acadêmica:#
-Mackenzie - Bacharelado em Sistemas de Informação
-Pós-graduação em Data Science
+#Formação Acadêmica#
+
+🚀Mackenzie - Bacharelado em Sistemas de Informação&nbsp;
+Pós-graduação em Data Science&nbsp;
