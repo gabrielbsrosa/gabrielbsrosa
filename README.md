@@ -11,19 +11,19 @@ Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, Q
 [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)&nbsp;
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)&nbsp;
 
-#Habilidades#  
+**Habilidades**  
 🎲Banco de dados (PostgreSQL, MySQL, SQLServer, Oracle)  
 🔍Coleta e processamento de dados  
 🐍Python, DAX, SQL  
 
 -----------------------------
 
-#Certificados#  
+**Certificados**  
 📚 Tableau - Business Intelligence Analyst.  
 
+-----------------------------
 
-
-#Formação Acadêmica#
+**Formação Acadêmica**
 
 🚀Mackenzie - Bacharelado em Sistemas de Informação
 
