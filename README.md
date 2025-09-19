@@ -1,4 +1,4 @@
-# Hola! Meu nome é Gabriel Barbosa 🧑‍💻
+# Gabriel Barbosa 🧑‍💻👋
 
 Sou profissional Especialista de dados e analytics, com ampla experiência em visualização e preparação de Dados, definição técnica e entrega de soluções ponta a ponta. Atuo como apoio entre engenharia, ciência de dados e visualização, conectando tecnologia e negócio para transformar necessidades estratégicas em soluções de dados completas.
 
