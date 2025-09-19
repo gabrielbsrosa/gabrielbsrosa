@@ -22,6 +22,6 @@ Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, Q
 🌍 Advanced English.
 
 Line
-🚀 Formação Acadêmica:
+#🚀 Formação Acadêmica:#
 Mackenzie - Bacharelado em Sistemas de Informação
 Pós-graduação em Data Science
