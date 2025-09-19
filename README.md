@@ -21,8 +21,7 @@ Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, Q
 
 🌍 Advanced English.
 
-## 🌐 Connect with Me:
-
-[LinkedIn](https://www.linkedin.com/in/flaviano-junior/)
-
-[Slack](https://planodecarreirasebac.slack.com/team/U089GKWRZDG)
+Line
+🚀 Formação Acadêmica:
+Mackenzie - Bacharelado em Sistemas de Informação
+Pós-graduação em Data Science
