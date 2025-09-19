@@ -13,9 +13,9 @@ Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, Q
 
 #Habilidades#
 
-🎲Banco de dados (PostgreSQL, MySQL, SQLServer, Oracle)&nbsp;
-🔍Coleta e processamento de dados&nbsp;
-🐍Python, DAX, SQL&nbsp;
+🎲Banco de dados (PostgreSQL, MySQL, SQLServer, Oracle)
+🔍Coleta e processamento de dados
+🐍Python, DAX, SQL
 
 #Certificados#
 
@@ -25,4 +25,4 @@ Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, Q
 #Formação Acadêmica#
 
 🚀Mackenzie - Bacharelado em Sistemas de Informação&nbsp;
-Pós-graduação em Data Science&nbsp;
+🚀Pós-graduação em Data Science&nbsp;
