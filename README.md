@@ -21,8 +21,6 @@ Tenho experiência em desenvolver dashboards e relatórios (Tableau, Power BI, Q
 **Certificados**  
 📚 Tableau - Business Intelligence Analyst.  
 
-📊 Amazon QuickSigh - AWS Certified Cloud Practitioner
-
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ec018f4d-d970-47d6-847b-91c424bb4ff6" /> Amazon QuickSigh - AWS Certified Cloud Practitioner
 
 
